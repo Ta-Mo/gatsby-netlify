@@ -42,6 +42,7 @@ const SEO = ({title, description, keywords, image}) => (
             name="robots"
             content="index, follow"
           />
+          <html lang="en"/>
         </Helmet>
       )
     }}
